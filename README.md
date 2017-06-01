@@ -1,0 +1,1 @@
+Mirror of [phaser-examples/examples/assets](https://github.com/photonstorm/phaser-examples/tree/master/examples/assets), minus audio, video, and a few source files.
